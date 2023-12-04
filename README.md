@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmanuelAsehene
-- 👀 I’m interested in Front end software developing
-- 🌱 I’m currently learning Software Developer in the ALX progeram  
+- 👀 I’m interested in Full-stack software development
+- 🌱 I’m currently learning Full-stack software development at Evangadi 
 - 📫 How to reach me amanashene2013@gmail.com
 
 <!---
